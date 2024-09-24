@@ -1,0 +1,11 @@
+Flask                    
+meson                     
+ninja                     
+numpy                     
+opencv-python                       
+pillow                   
+pip                                     
+torch                     
+torchvision               
+tqdm                                          
+ultralytics               
